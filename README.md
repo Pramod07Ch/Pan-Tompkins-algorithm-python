@@ -1,7 +1,7 @@
 # Pan-Tompkins-algorithm-python
 
 ### About
-The Pan–Tompkins algorithm is commonly used to detect QRS complexes in electrocardiographic signals (ECG). It based on paper in the [link](https://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf).
+The [Pan–Tompkins algorithm](https://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf) is commonly used to detect QRS complexes in electrocardiographic signals (ECG).
 
 ### ECG QRS
 ![QRS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SinusRhythmLabels.svg/330px-SinusRhythmLabels.svg.png)
